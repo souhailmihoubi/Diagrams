@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T11:56:43.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1jbtNoLCy5ZtsRUc0cHH" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T11:57:27.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wDGQX0EoeEfsGdVZrKPh" version="20.8.13" type="github">
   <diagram name="Page-1" id="1oY87gOgOtbdwA-CNumr">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,9 +38,6 @@
         </mxCell>
         <mxCell id="A2a2hrjPvCJ1dBXc1gBQ-11" value="Is player Detected?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="A2a2hrjPvCJ1dBXc1gBQ-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A2a2hrjPvCJ1dBXc1gBQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A2a2hrjPvCJ1dBXc1gBQ-14" target="A2a2hrjPvCJ1dBXc1gBQ-17">
           <mxGeometry relative="1" as="geometry" />
